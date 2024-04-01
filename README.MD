@@ -8,3 +8,5 @@ THIS IS ALL ABOUT THE GIT BASIC THE HELP OF FREECODE CAMP
 git merge diff2
 git brach -b 
 
+#login to merge
+#login to pull
